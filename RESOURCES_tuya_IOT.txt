@@ -1,0 +1,22 @@
+Resources
+
+1. You need a smart appliance, say a smart bulb. more could be found here https://go.tuya.com/en/
+
+2. You need Android studio or xcode.
+
+	https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiRw6_tiujwAhVmzTgGHcI7A8IQwqsBMAB6BAgGEAE&url=https%3A%2F		%2Fwww.youtube.com%2Fwatch%3Fv%3D0zx_eFyHRU0&usg=AOvVaw3TMaFcVg_gWAz9ycgLitSh
+
+	https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=video&cd=&cad=rja&uact=8&ved=2ahUKEwiwheGEi-jwAhWLxzgGHa5dDEkQtwIwAHoECAYQAw&url=https%3A		%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dg-Lsk7ypjDI&usg=AOvVaw3hToOjRpkxi7Lrd03lwxW7
+
+3. More information could be found at below links 
+	
+	____Android____
+
+	https://developer.tuya.com/en/docs/app-development/integrated?id=Ka69nt96cw0uj#title-1-Step%201%3A%20Create%20an%20Android%20project
+	https://developer.tuya.com/en/demo/light-demo-for-android
+
+	_____IOS______
+	https://developer.tuya.com/en/demo/make-a-ios-app-to-control-lights
+
+	____Documentation_____
+	https://developer.tuya.com/en/docs/iot/app-sdk-instruction?id=K9kjstc7t376p	
